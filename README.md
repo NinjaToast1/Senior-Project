@@ -1,3 +1,13 @@
 # Senior-Project
 Senior Project for CS 499 UAH 
-..
+
+# Project Name: WatchBuster (W.I.P title)
+
+# Authors: 
+Cody N. Gillette
+David Garcia
+Stanley Holt
+
+
+# Project Summary 
+A media recommendation app that allows a user to decide on which movie or show to watch based on their preferences. The user selects their preferences using tags which are then compared to a consolidated database of media from various streaming platforms. A list of recommended media is then returned to the user that displays ratings, trailers, where to stream, and where to purchase for the lowest price. There is also an option for a random movie recommendation that will learn the user’s preferences the more the user interacts with the application. Users are also able to recommend media to their friends that they believe their friend would enjoy.
